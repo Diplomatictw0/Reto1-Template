@@ -83,6 +83,7 @@ def new_data(id, info):
 
     return data
 
+# Las tres funciones anteriores no funcionan al revisar los documentos su funcionamien va a conducir a un error por sintaxis.
 
 # Funciones de consulta
 
