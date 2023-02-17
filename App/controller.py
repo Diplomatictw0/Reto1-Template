@@ -49,9 +49,9 @@ def load_data(control, filename):
     Carga los datos del reto
     """
     # TODO: Realizar la carga de datos
-    
-    pass
-
+    catalog = control['model']
+    print(catalog)
+    return catalog
 
 # Funciones de ordenamiento
 
